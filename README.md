@@ -15,11 +15,11 @@
 
 4. [Example 1: Hello World](#example1)
 
-5. [Example 2: Jumping Frog](#Jumping_Frog)
+5. [Example 2: Jumping Frog](#example2)
 
-6. [Example 3: Sensor Reader](#sensor_reader)
+6. [Example 3: Sensor Reader](#example3)
 
-7. [Example 4: Rainbow LED](#rainbow_led) 
+7. [Example 4: Rainbow LED](#example4) 
 
 ## Introduction to M5Stack
 
