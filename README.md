@@ -1,17 +1,19 @@
 <div align="center">
+
   # Transformative Innovation for Sustainable Development Goals with M5Stack
+  
 </div>
 
 
 ## Table of Contents
 
-1. [Introduction to M5Stack](#Introduction_To_M5Stack)
+1. [Introduction to M5Stack](#Introduction-To-M5Stack)
 
-2. [M5Stack CoreS3](#M5StackCoreS3)
+2. [M5Stack CoreS3](#M5Stack-CoreS3)
 
 3. [UIFlow](#UIFlow)
 
-4. [Example 1: Hello World](#Hello_World)
+4. [Example 1: Hello World](#Example-1:-Hello-World)
 
 5. [Example 2: Jumping Frog](#Jumping_Frog)
 
