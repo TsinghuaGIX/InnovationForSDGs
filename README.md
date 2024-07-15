@@ -29,9 +29,9 @@
 
 <h2 id="example1"> Example 1: Hello World </h2>
 
-## Example 2: Jumping Frog
+<h2 id="example2"> Example 2: Jumping Frog</h2>
 
-## Example 3: Sensor Reader
+<h2 id="example3"> Example 3: Sensor Reader</h2>
 
-## Example 4: Rainblow LED
+<h2 id="example4"> Example 4: Rainblow LED</h2>
 
