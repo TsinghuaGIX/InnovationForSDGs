@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-    <a href="https://gix.tsinghua.edu.cn/en/">Global Innovation Exchange</a> |
+    <a href="https://gix.tsinghua.edu.cn/en/">GIX</a> |
     <a href="#">Gallery</a> 
 </h3>
 
