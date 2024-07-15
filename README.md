@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Transformative Innovation for Sustainable Development Goals with M5Stack
+  # Transformative Innovation for SDGs with Visual Programming on M5Stack 
   
 </div>
 
