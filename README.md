@@ -13,7 +13,7 @@
 
 3. [UIFlow](#UIFlow)
 
-4. [Example 1: Hello World](#Example-1:-Hello-World)
+4. [Example 1: Hello World](#example1)
 
 5. [Example 2: Jumping Frog](#Jumping_Frog)
 
@@ -27,7 +27,7 @@
 
 ## UIFlow
 
-## Example 1: Hello World
+<h2 id="example1"> Example 1: Hello World </h2>
 
 ## Example 2: Jumping Frog
 
