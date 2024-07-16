@@ -69,6 +69,9 @@ UIFlow2.0 now use the web IDE:https://uiflow2.m5stack.com/
 
 Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi-Fi mode.
 
+![image](https://github.com/user-attachments/assets/28cfec03-7f8d-4789-9d71-2b179b51ecc6)
+
+
 * USB mode: Fast but may not be compatible.
 * Wi-Fi mode: Better compatible with UIFlow but sometimes stupid.
 
