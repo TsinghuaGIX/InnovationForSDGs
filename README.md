@@ -12,18 +12,19 @@
 ## Table of Contents
 
 1. [Introduction to M5Stack](#Introduction-To-M5Stack)
+   What is [M5Stack](https://m5stack.com/)? As their official website says, M5Stack is a leading provider of IoT solutions, committed to providing developers worldwide with convenient and flexible development components and tools. They offer stackable hardware modules and user-friendly graphical programming platform, as well as customized services, to provide clients in industrial IoT, smart agriculture, smart retail, STEM education, and many other fields with efficient and reliable Quick&Easy IoT Development experience.
 
-2. [M5Stack CoreS3](#M5Stack-CoreS3)
+3. [M5Stack CoreS3](#M5Stack-CoreS3)
 
-3. [UIFlow](#UIFlow)
+4. [UIFlow](#UIFlow)
 
-4. [Example 1: Hello World](#example1)
+5. [Example 1: Hello World](#example1)
 
-5. [Example 2: Jumping Frog](#example2)
+6. [Example 2: Jumping Frog](#example2)
 
-6. [Example 3: Sensor Reader](#example3)
+7. [Example 3: Sensor Reader](#example3)
 
-7. [Example 4: Rainbow LED](#example4) 
+8. [Example 4: Rainbow LED](#example4) 
 
 ## Introduction to M5Stack
 
