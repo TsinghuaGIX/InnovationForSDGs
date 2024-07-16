@@ -22,7 +22,9 @@
 
 5. [Example 3: Sensor Reader](#example3)
 
-6. [Example 4: Rainbow LED](#example4) 
+6. [Example 4: Rainbow LED](#example4)
+
+7. [Reference](#Reference)
 
 ## Introduction to M5Stack
 
@@ -101,4 +103,15 @@ How to connect `Sensor`?
 <h2 id="example4"> Example 4: Rainblow LED</h2>
 
 How to define `function` and add `cutomized module`?
+
+## Reference
+[1] [Core S3 Development Kit Written by Adam Bryant](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/CoreS3/CoreS3%20Development%20Kit-compressed%20(1).pdf)
+
+[2] [Quick Start Guide for UIFlow Web IDE](https://docs.m5stack.com/en/uiflow2/uiflow_web)
+
+[3] [M5CoreS3 firmware burning and program pushing](https://docs.m5stack.com/en/uiflow2/m5cores3/program)
+
+[4] [MicroPython documentation and references](https://uiflow-micropython.readthedocs.io/en/latest/)
+
+
 
