@@ -54,10 +54,12 @@ The Hardware Library:
 
 
 ## Visual Programming
+Visual programming is a way of creating software programs or applications without writing code. Instead, icons, symbols, and flowcharts make such programs. Traditional programming is the process of writing code using a programming language, such as Java, Python, or C++. This method requires a deep understanding of programming concepts and syntax.
 
-* Programming is to turn user commands into language that computers can understand.
-* Traditional programming is the process of writing code using a programming language, such as Java, Python, or C++. This method requires a deep understanding of programming concepts and syntax.
-* Visual programming is a way of creating software programs or applications without writing code. Instead, icons, symbols, and flowcharts make such programs.
+* Pros: Easier to learn and use
+* Cons: Limitation in customization and flexibility
+
+
 
 
 
