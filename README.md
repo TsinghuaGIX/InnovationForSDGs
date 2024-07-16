@@ -86,11 +86,13 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 
 <h2 id="example1"> Example 1: Hello World </h2>
 
-What does `Setup` Block do?
+How to use `UI Editor`?
+What does `Setup Block` do?
 
 <h2 id="example2"> Example 2: Jumping Frog</h2>
 
 What does `Loop` Block do?
+How to upload images files? What is the constraint?
 
 <h2 id="example3"> Example 3: Sensor Reader</h2>
 
