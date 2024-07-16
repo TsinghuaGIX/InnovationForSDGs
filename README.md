@@ -88,8 +88,10 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 
 <h2 id="example1"> Example 1: Hello World </h2>
 
-How to use `UI Editor`?
-What does `Setup Block` do?
+1. Use UI Editor to add a new `Label`. Change the text of the Label to `Hello World`.
+2. After add a label to the UI, the toolbox will show the api for the label.
+3. Use the api to update the label's color.
+4. Run the project. 
 
 <h2 id="example2"> Example 2: Jumping Frog</h2>
 
