@@ -89,22 +89,35 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 <h2 id="example1"> Example 1: Hello World </h2>
 
 1. Use UI Editor to add a new `Label`. Change the text of the Label to `Hello World`.
-2. After add a label to the UI, the toolbox will show the api for the label.
-3. Use the api to update the label's color.
+2. After add a label to the UI, the toolbox will show tools for the label.
+3. Use the tools to update the label's color.
 4. Run the project. 
 
 <h2 id="example2"> Example 2: Jumping Frog</h2>
 
-What does `Loop` Block do?
-How to upload images files? What is the constraint?
+1. Add images to the project.
+2. Implement the logic of update the image path.
+3. Sync the images to CoreS3 by run the project in Wi-Fi mode.
+4. Run the project.
 
 <h2 id="example3"> Example 3: Sensor Reader</h2>
 
-How to connect `Sensor`?
+1. Connect the sensor use Port B.
+2. Add the `Light Unit` in the Resource Panel.
+3. Use the tool in toolbox to read the sensor value.
+4. Run the project.
 
 <h2 id="example4"> Example 4: Rainblow LED</h2>
 
-How to define `function` and add `cutomized module`?
+1. Connect the LED with Port B.
+2. Add the `RGB unit` in the Resource Panel.
+3. Implement HSV to RGB algorithm with Python.
+4. Convert python code to UIFlow Block.
+5. Add the new block to the project.
+6. Implement the function to update LED colors.
+7. Implement the loop block.
+8. Upload the python file to the device.
+9. Run the Project.
 
 ## Reference
 [1] [Core S3 Development Kit Written by Adam Bryant](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/CoreS3/CoreS3%20Development%20Kit-compressed%20(1).pdf)
