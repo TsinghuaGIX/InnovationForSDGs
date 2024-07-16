@@ -32,6 +32,8 @@
 
 Now, M5Stack is a leading provider of IoT solutions, committed to providing developers worldwide with convenient and flexible development components and tools. They offer `stackable hardware modules` and user-friendly `graphical programming` platform, as well as customized services, to provide clients in industrial IoT, smart agriculture, smart retail, STEM education, and many other fields with efficient and reliable Quick&Easy IoT Development experience.
 
+The Hardware Library:
+
 | SKU-ID| Modules  | Type | Document |
 | ------------- | ------------- |  ------------- | ------------- |
 | K128  | CoreS3  | Controller| https://docs.m5stack.com/en/core/CoreS3 |
@@ -42,11 +44,11 @@ Now, M5Stack is a leading provider of IoT solutions, committed to providing deve
 | U004 | PIR Motion Sensor | Sensor | https://docs.m5stack.com/en/unit/PIR |
 | U001­C | ENV III Unit with Temperature Humidity Air Pressure Sensor | Sensor | https://docs.m5stack.com/en/unit/envIII |
 | U019 | Earth Moisture Sensor | Sensor | https://docs.m5stack.com/en/unit/earth |
-| U132 | Passive Buzzer | Output | https://docs.m5stack.com/en/unit/buzzer |
 | U104 | CO2L Unit with Temperature and Humidity Sensor | Sensor | https://docs.m5stack.com/en/unit/CO2L |
 | U040­B | I2C Hub 1 to 6 Expansion | Hub| https://docs.m5stack.com/en/unit/pahub2 |
 | A093 |Digital RGB LED Weatherproof Strip| Output| https://docs.m5stack.com/en/unit/rgb_led_strip |
 | A045­B | Neo HEX 37 RGB LED Board | Output | https://docs.m5stack.com/en/unit/neohex |
+| U132 | Passive Buzzer | Output | https://docs.m5stack.com/en/unit/buzzer |
 | U144 | Mechanical Key Button Unit | Input| https://docs.m5stack.com/en/unit/key |
 | SDCS2/64GBCA |SDCard| Storage| - |
 
