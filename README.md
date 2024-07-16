@@ -59,6 +59,13 @@ Visual programming is a way of creating software programs or applications withou
 * Pros: Easier to learn and use
 * Cons: Limitation in customization and flexibility
 
+UIFlow2.0 is a visual programming platform for M5Stack products.
+
+To enable UIFlow2.0, the first is to burn the UIFlow2.0 firmware.
+The tutorial for CoreS3 is https://docs.m5stack.com/en/uiflow2/m5cores3/program
+
+
+
 
 
 
