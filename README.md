@@ -36,6 +36,19 @@ Now, M5Stack is a leading provider of IoT solutions, committed to providing deve
 | ------------- | ------------- |  ------------- | ------------- |
 | K128  | CoreS3  | Controller| https://docs.m5stack.com/en/core/CoreS3 |
 | K132  | Cardputor  | Controller | https://docs.m5stack.com/en/core/Cardputer |
+| U021 | Light Sensor Unit| Sensor | https://docs.m5stack.com/en/unit/LIGHT |
+| U010 | Time-of-Flight Distance Ranging Sensor| Sensor | https://docs.m5stack.com/en/unit/TOF |
+| U029 | Mini Heart Rate Unit (MAX30100) Pulse Oximeter| Sensor| https://docs.m5stack.com/en/unit/heart |
+| U004 | PIR Motion Sensor | Sensor | https://docs.m5stack.com/en/unit/PIR |
+| U001­C | ENV III Unit with Temperature Humidity Air Pressure Sensor | Sensor | https://docs.m5stack.com/en/unit/envIII |
+| U019 | Earth Moisture Sensor | Sensor | https://docs.m5stack.com/en/unit/earth |
+| U132 | Passive Buzzer | Output | https://docs.m5stack.com/en/unit/buzzer |
+| U104 | CO2L Unit with Temperature and Humidity Sensor | Sensor | https://docs.m5stack.com/en/unit/CO2L |
+| U040­B | I2C Hub 1 to 6 Expansion | Hub| https://docs.m5stack.com/en/unit/pahub2 |
+| A093 |Digital RGB LED Weatherproof Strip| Output| https://docs.m5stack.com/en/unit/rgb_led_strip |
+| A045­B | Neo HEX 37 RGB LED Board | Output | https://docs.m5stack.com/en/unit/neohex |
+| U144 | Mechanical Key Button Unit | Input| https://docs.m5stack.com/en/unit/key |
+| SDCS2/64GBCA |SDCard| Storage| - |
 
 ## M5Stack CoreS3
 
