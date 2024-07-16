@@ -63,11 +63,15 @@ UIFlow2.0 is a visual programming platform for M5Stack products.
 
 To enable UIFlow2.0, the first is to burn the UIFlow2.0 firmware.
 
-The tutorial for CoreS3 to burn the firmware is https://docs.m5stack.com/en/uiflow2/m5cores3/program
+The tutorial for CoreS3 to burn the firmware: https://docs.m5stack.com/en/uiflow2/m5cores3/program
 
 UIFlow2.0 now use the web IDE:https://uiflow2.m5stack.com/
 
 Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi-Fi mode.
+
+* USB mode: Fast but may not be compatible.
+* Wi-Fi mode: Better compatible with UIFlow but sometimes stupid.
+
 
 
 
