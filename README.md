@@ -72,7 +72,8 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 * USB mode: Fast but may not be compatible.
 * Wi-Fi mode: Better compatible with UIFlow but sometimes stupid.
 
-**Final solution** for bugs: ``reburn UIFlow2.0 firmware''
+**Final solution** for bugs: 
+``reburn UIFlow2.0 firmware''
 
 
 
