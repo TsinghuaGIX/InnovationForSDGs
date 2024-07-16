@@ -86,9 +86,17 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 
 <h2 id="example1"> Example 1: Hello World </h2>
 
+What does `Setup` Block do?
+
 <h2 id="example2"> Example 2: Jumping Frog</h2>
+
+What does `Loop` Block do?
 
 <h2 id="example3"> Example 3: Sensor Reader</h2>
 
+How to connect `Sensor`?
+
 <h2 id="example4"> Example 4: Rainblow LED</h2>
+
+How to define `function` and add `cutomized module`?
 
