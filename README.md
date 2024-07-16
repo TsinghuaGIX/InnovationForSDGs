@@ -32,6 +32,11 @@
 
 Now, M5Stack is a leading provider of IoT solutions, committed to providing developers worldwide with convenient and flexible development components and tools. They offer `stackable hardware modules` and user-friendly `graphical programming` platform, as well as customized services, to provide clients in industrial IoT, smart agriculture, smart retail, STEM education, and many other fields with efficient and reliable Quick&Easy IoT Development experience.
 
+| SKU-ID| Modules  | Type | Document |
+| ------------- | ------------- |  ------------- | ------------- |
+| K128  | CoreS3  | Controller| https://docs.m5stack.com/en/core/CoreS3 |
+| K132  | Cardputor  | Controller | https://docs.m5stack.com/en/core/Cardputer |
+
 ## M5Stack CoreS3
 
 **CoreS3** is the third generation of the M5Stack Core series. 
