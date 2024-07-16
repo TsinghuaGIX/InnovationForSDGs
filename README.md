@@ -6,6 +6,7 @@
 
 <h3 align="center">
     <a href="https://gix.tsinghua.edu.cn/en/">GIX</a> |
+     <a href="https://wangxu.ai/">Slides</a> |
     <a href="#">Gallery</a> 
 </h3>
 
