@@ -31,7 +31,8 @@
 
 ## M5Stack CoreS3
 
-**CoreS3** is the third generation of the M5Stack Core series. Details about the hardware is available on the link:  [M5Stack CoreS3 ESP32S3 loT Development Kit](https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit).
+**CoreS3** is the third generation of the M5Stack Core series. 
+Details is available on the link:  [M5Stack CoreS3 ESP32S3 loT Development Kit](https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit).
 
 ## UIFlow
 
