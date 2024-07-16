@@ -32,11 +32,6 @@
 
 Now, M5Stack is a leading provider of IoT solutions, committed to providing developers worldwide with convenient and flexible development components and tools. They offer `stackable hardware modules` and user-friendly `graphical programming` platform, as well as customized services, to provide clients in industrial IoT, smart agriculture, smart retail, STEM education, and many other fields with efficient and reliable Quick&Easy IoT Development experience.
 
-The community provides from `prototyping` to `commercial` level end to end IoT Edge Platform.
-
-Considering the comprehensive development platform and limited hours for the innovation, M5Stack is a good choice for our innovation challenge. 
-
-
 ## M5Stack CoreS3
 
 **CoreS3** is the third generation of the M5Stack Core series. 
