@@ -198,6 +198,8 @@ Make sure the device's status is green.
 
     ![IMG_6582-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ca2d2863-b1f2-481a-a16f-b0a458867c1c)
 
+**Hope all of you have a good time with M5Stack**
+
 
 ## Reference
 [1] [Core S3 Development Kit Written by Adam Bryant](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/CoreS3/CoreS3%20Development%20Kit-compressed%20(1).pdf)
