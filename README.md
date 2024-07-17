@@ -198,7 +198,7 @@ Make sure the device's status is green.
 
     ![IMG_6582-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ca2d2863-b1f2-481a-a16f-b0a458867c1c)
 
-**Hope all of you have a good time with M5Stack**
+**Hope all of you have a good time with M5Stack！！！**
 
 
 ## Reference
