@@ -89,7 +89,11 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 <h2 id="example1"> Example 1: Hello World </h2>
 
 1. Use UI Editor to add a new `Label`. Change the text of the Label to `Hello World`.
+   
+   <img width="1374" alt="image" src="https://github.com/user-attachments/assets/3fa672ea-59c0-4662-8504-95d72efa6bcd">
+
 2. After add a label to the UI, the toolbox will show tools for the label.
+   
 3. Use the tools to update the label's color.
 4. Run the project. 
 
