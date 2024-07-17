@@ -104,8 +104,10 @@ Carefully for the two mode to connect the device with UIFlow2.0: USB mode and Wi
 
    
 6. Run the project.
+   
+![helloworld](https://github.com/user-attachments/assets/d04591bb-31d8-4100-93e0-0df5ea8f0a85)
 
-   ![image](https://github.com/user-attachments/assets/5e949f08-5bee-4844-9bff-4817ae582e75)
+  
 
 
 <h2 id="example2"> Example 2: Jumping Frog</h2>
