@@ -6,8 +6,8 @@
 
 <h3 align="center">
     <a href="https://gix.tsinghua.edu.cn/en/">GIX</a> |
-     <a href="https://wangxu.ai/">Slides</a> |
-    <a href="#">Gallery</a> 
+     <a href="https://github.com/TsinghuaGIX/InnovationForSDGs/blob/main/%E8%AF%BE%E7%A8%8B2.pdf">Slides</a> |
+
 </h3>
 
 ## Table of Contents
